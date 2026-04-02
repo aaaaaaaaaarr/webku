@@ -1,4 +1,5 @@
-body{
+body
+{
     background:#f3f3f3;
     color:#333;
     width:100%;
@@ -6,7 +7,8 @@ body{
     margin:0 auto;
 }
 
-.header{
+.header
+{
     width:90%;
     margin:auto;
     height:120px;
@@ -15,11 +17,13 @@ body{
     color:fff;
 }
 
-.jarak{
+.jarak
+{
     padding:0 2pc;
 }
 
-.menu{
+.menu
+{
     background-color:#417aa8;
     height:50px;
     line-height:50px;
